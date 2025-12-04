@@ -88,7 +88,7 @@ Run the following commands on your Linux host:
 
 git clone https://github.com/stevevoto/install_eicar_av_test.git
 
-cd <your-repo>
+cd install_eicar_av_test/
 
 ### 2\. Make the Installer Executable
 
