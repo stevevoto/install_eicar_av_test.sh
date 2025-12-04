@@ -1,0 +1,1 @@
+# install_eicar_av_test.sh
