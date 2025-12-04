@@ -13,7 +13,7 @@ The tool:
 
 Your router / firewall **should detect, log, and (ideally) block** these transmissions.
 
-> ⚠️ **Important:** Only use this on networks you own or are explicitly authorized to test.
+>  **Important:** Only use this on networks you own or are explicitly authorized to test.
 
 ---
 
@@ -100,13 +100,13 @@ This string is:
 
 ## Expected Behavior
 
-### ✅ When AV is Working:
+###  When AV is Working:
 - Connections timeout or are reset
 - HTTP requests return error codes
 - Python shows connection errors
 - Tests show "✓ Blocked" messages
 
-### ⚠️ When AV is NOT Working:
+###  When AV is NOT Working:
 - HTTP requests return 200 OK
 - Data successfully transmits
 - Tests show "⚠ WARNING" messages
@@ -277,7 +277,7 @@ exit
 
 ## Safety Reminder
 
-⚠️ **Only test on networks you own or have permission to test**
+ **Only test on networks you own or have permission to test**
 
 These tests will:
 - Generate security alerts
