@@ -824,13 +824,21 @@ Across all these tests, a modern AV/IDPS typically does:
 When the script prints:
 
 HTTP POST                    : BLOCKED
+
 Multipart Upload             : BLOCKED
+
 HTTPS                        : ALLOWED
+
 Encoded                      : ALLOWED
+
 Socket                       : BLOCKED
+
 File Transfer                : BLOCKED
+
 DNS Tunnel                   : ALLOWED
+
 WebSocket                    : ALLOWED
+
 
 Overall Score: 5/8 transmissions blocked
 
