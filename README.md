@@ -339,7 +339,7 @@ From PCLI:
 
 pcli
 
-show idp application status
+**show idp application status**
 
 \====node0.020001fcaecc ========
 
@@ -363,11 +363,11 @@ show idp application status
 
  Anti Virus Scan Engine Information:     running
  
-show events type idps
+**show events type idps**
 
-show events category security
+**show events category security**
 
-show idps signatures
+**show idps signatures**
 
 ## Expected Behavior
 
